@@ -26,31 +26,31 @@ function makeSound(value)
       switch(value)
       {
         case 'w':
-        path = "sounds/tom-1.mp3";
+        path = "tom-1.mp3";
         break;
 
         case 'a':
-        path = "sounds/tom-2.mp3";
+        path = "tom-2.mp3";
         break;
 
         case 's':
-        path = "sounds/tom-3.mp3";
+        path = "tom-3.mp3";
         break;
 
         case 'd':
-        path = "sounds/tom-4.mp3";
+        path = "tom-4.mp3";
         break;
 
         case 'j':
-        path = "sounds/snare.mp3";
+        path = "snare.mp3";
         break;
 
         case 'k':
-        path = "sounds/crash.mp3";
+        path = "crash.mp3";
         break;
 
         case 'l':
-        path = "sounds/Big_Thwack_120.mp3";
+        path = "Big_Thwack_120.mp3";
         break;
       }
 
